@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: lightgray;
+    padding-top: 200px; 
+};
+
+.main-title {
+    font-size: 30px;
+    color: red;
+    font-weight: 800;
+}
+
+img {
+    width: 50%;
+}
+
+p {
+    font-size: 20px;
+    color: darkblue;
+    font-weight: 500;
+}
